@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contayner {
+    width: 100%;
+    height: 625px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    
+}
+
+.hett {
+    width: 485px;
+    height: 420px;
+    background-color: rgb(0, 0, 0);
+}
+.menyu-bar {
+    width: 480px;
+    height: 420px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 5px;
+}
+
+h1 {
+    color: rgb(73, 73, 73);
+    
+}
+.umumi-p-teqi {
+    padding-left: 20px;
+}
